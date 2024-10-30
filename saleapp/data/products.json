@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iphone 16 promax",
+    "price": 30000000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILLAvEGdnCqbQU0NK6XnqW1A0WNDc2mL__Q&s",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "lenovo ideapad gaming3",
+    "price": 18000000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILLAvEGdnCqbQU0NK6XnqW1A0WNDc2mL__Q&s",
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "pin iphone",
+    "price": 900000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRILLAvEGdnCqbQU0NK6XnqW1A0WNDc2mL__Q&s",
+    "category_id": 3
+  }
+]
